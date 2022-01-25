@@ -1,4 +1,4 @@
-# Application "CV alternatif" Node+React hébergée sur Firebase
+# Application "CV alternatif" Node+React hébergée sur Firebase :scroll: :mag:
 
 ![forthebadge](https://img.shields.io/badge/react-green)  ![forthebadge](https://img.shields.io/badge/nodejs-orange)  ![forthebadge](https://img.shields.io/badge/MVC-grey)  ![forthebadge](https://img.shields.io/badge/Firebase-red)
 
